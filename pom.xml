@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.stylitics.styliticsdata</groupId>
     <artifactId>styliticsdata</artifactId>
-    <version>1.6.0</version>
+    <version>1.7.0</version>
     <dependencies>
         <dependency>
             <groupId>com.squareup.retrofit2</groupId>
