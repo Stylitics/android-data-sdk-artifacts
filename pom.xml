@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.stylitics.styliticsdata</groupId>
     <artifactId>styliticsdata</artifactId>
-    <version>1.8.2</version>
+    <version>1.9.2</version>
     <dependencies>
         <dependency>
             <groupId>com.squareup.retrofit2</groupId>
@@ -20,6 +20,16 @@
             <groupId>com.squareup.okhttp3</groupId>
             <artifactId>logging-interceptor</artifactId>
             <version>4.9.3</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jetbrains.kotlinx</groupId>
+            <artifactId>kotlinx-coroutines-android</artifactId>
+            <version>1.6.0</version>
+        </dependency>
+        <dependency>
+            <groupId>androidx.lifecycle</groupId>
+            <artifactId>lifecycle-process</artifactId>
+            <version>2.2.0</version>
         </dependency>
     </dependencies>
 </project>
